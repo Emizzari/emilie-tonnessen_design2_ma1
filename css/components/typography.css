@@ -1,0 +1,18 @@
+body{
+    font-family: montserrat, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #141414;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+    color: #667368;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
