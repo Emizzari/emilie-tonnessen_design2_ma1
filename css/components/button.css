@@ -36,3 +36,21 @@
 .btn--search{
     border-radius: 0;
 }
+
+.link{
+    text-decoration: none;
+    color: #667368;
+}
+
+.link:hover{
+    text-decoration: underline;
+    color: #667368a9;
+}
+
+.footer__link{
+    color: #D9C2A7;
+}
+
+.footer__link:hover{
+    color: #d9c2a79a;
+}
